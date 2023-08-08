@@ -1,1 +1,1 @@
-# Mini-Project-
+# Mini-Project-Food_Guide_App
